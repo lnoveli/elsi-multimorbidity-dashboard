@@ -2,7 +2,7 @@
 
 An interactive public-health dashboard that translates complex survey data into an accessible view of multimorbidity among Brazilians aged 50 and over.
 
-**Live dashboard:** GitHub Pages link will be available after deployment.
+**Live dashboard:** [Open the interactive dashboard](https://lnoveli.github.io/elsi-multimorbidity-dashboard/).
 
 ## Research problem
 
